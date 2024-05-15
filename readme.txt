@@ -1,8 +1,6 @@
 Jackson Diamond
 ElmTA openAI chatGPT powered Python project
 
-CWID: 10857681
-
 Code breakdown:
 One must have access to the internet and an OpenAI api key in order to run this code. As well as the ability to run python.
 
